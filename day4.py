@@ -124,5 +124,6 @@ for i in range(len(content)):
     
     count += check_horizontal(content, i)
     count += check_diagonal(content, i)
+    
 
 print(count)
