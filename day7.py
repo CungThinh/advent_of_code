@@ -24,3 +24,4 @@ for line in content.split('\n'):
             break;
             
 print(total)
+
